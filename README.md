@@ -72,6 +72,24 @@ Entregables:
 
 ##
 
+### 30 nodos - DFS recursivo
+**m = 6, n = 5, dirigido = False**
+
+<img src="/img/grafoMalla_m_6_n_5_DFS_R_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+### 30 nodos - DFS iterativo
+**m = 6, n = 5, dirigido = False**
+
+<img src="/img/grafoMalla_m_6_n_5_DFS_I_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
 ### 100 nodos
 **m = 25, n = 4, dirigido = False**
 
@@ -81,12 +99,68 @@ Entregables:
  
 ##
 
+### 100 nodos - BFS
+**m = 25, n = 4, dirigido = False**
+
+<img src="/img/grafoMalla_m_25_n_4_BFS_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+ 
+##
+
+### 100 nodos- DFS recursivo
+**m = 25, n = 4, dirigido = False**
+
+<img src="/img/grafoMalla_m_25_n_4_DFS_R_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+ 
+##
+
+### 100 nodos - DFS iterativo
+**m = 25, n = 4, dirigido = False**
+
+<img src="/img/grafoMalla_m_25_n_4_DFS_I_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+ 
+##
+
 ### 500 nodos
 **m = 50, n = 10, dirigido = False**
 
 <img src="/img/grafoMalla_m_50_n_10.png" width="500" />
 
 > 500 Nodos y 940 Aristas
+ 
+##
+
+### 500 nodos - BFS
+**m = 50, n = 10, dirigido = False**
+
+<img src="/img/grafoMalla_m_50_n_10_BFS_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+ 
+##
+
+### 500 nodos - DFS recursivo
+**m = 50, n = 10, dirigido = False**
+
+<img src="/img/grafoMalla_m_50_n_10_DFS_R_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+ 
+##
+
+### 500 nodos - DFS iterativo
+**m = 50, n = 10, dirigido = False**
+
+<img src="/img/grafoMalla_m_50_n_10_DFS_I_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+ 
+##
  
 ---
 
