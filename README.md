@@ -63,6 +63,15 @@ Entregables:
 
 ##
 
+### 30 nodos - BFS
+**m = 6, n = 5, dirigido = False**
+
+<img src="/img/grafoMalla_m_6_n_5_BFS_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
 ### 100 nodos
 **m = 25, n = 4, dirigido = False**
 
