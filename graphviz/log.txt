@@ -1,0 +1,290 @@
+2021-04-24 21:32:13.974072
+nodo_raiz:  7
+---30 Nodos---
+---49 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_6_n_5.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_6_n_5_BFS_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_6_n_5_DFS_R_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_6_n_5_DFS_I_7.gv
+
+---100 Nodos---
+---171 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_25_n_4.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_25_n_4_BFS_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_25_n_4_DFS_R_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_25_n_4_DFS_I_7.gv
+
+---500 Nodos---
+---940 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_50_n_10.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_50_n_10_BFS_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_50_n_10_DFS_R_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_50_n_10_DFS_I_7.gv
+
+---30 Nodos---
+---30 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_30_m_30.gv
+
+---24 Nodos---
+---23 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_30_m_30_BFS_7.gv
+
+---24 Nodos---
+---23 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_30_m_30_DFS_R_7.gv
+
+---24 Nodos---
+---23 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_30_m_30_DFS_I_7.gv
+
+---100 Nodos---
+---100 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_100_m_100.gv
+
+---87 Nodos---
+---86 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_100_m_100_BFS_7.gv
+
+---87 Nodos---
+---86 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_100_m_100_DFS_R_7.gv
+
+---87 Nodos---
+---86 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_100_m_100_DFS_I_7.gv
+
+---500 Nodos---
+---500 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_500_m_500.gv
+
+---392 Nodos---
+---391 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_500_m_500_BFS_7.gv
+
+---392 Nodos---
+---391 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_500_m_500_DFS_R_7.gv
+
+---392 Nodos---
+---391 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_500_m_500_DFS_I_7.gv
+
+---30 Nodos---
+---81 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_30_p_10.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_30_p_10_BFS_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_30_p_10_DFS_R_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_30_p_10_DFS_I_7.gv
+
+---100 Nodos---
+---889 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_100_p_10.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_100_p_10_BFS_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_100_p_10_DFS_R_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_100_p_10_DFS_I_7.gv
+
+---500 Nodos---
+---7464 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_500_p_3.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_500_p_3_BFS_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_500_p_3_DFS_R_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_500_p_3_DFS_I_7.gv
+
+---30 Nodos---
+---104 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_30_r_3.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_30_r_3_BFS_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_30_r_3_DFS_R_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_30_r_3_DFS_I_7.gv
+
+---100 Nodos---
+---1086 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_100_r_3.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_100_r_3_BFS_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_100_r_3_DFS_R_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_100_r_3_DFS_I_7.gv
+
+---500 Nodos---
+---3768 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_500_r_1.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_500_r_1_BFS_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_500_r_1_DFS_R_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_500_r_1_DFS_I_7.gv
+
+---30 Nodos---
+---58 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_30_d_4.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_30_d_4_BFS_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_30_d_4_DFS_R_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_30_d_4_DFS_I_7.gv
+
+---100 Nodos---
+---198 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_100_d_4.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_100_d_4_BFS_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_100_d_4_DFS_R_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_100_d_4_DFS_I_7.gv
+
+---500 Nodos---
+---999 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_500_d_4.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_500_d_4_BFS_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_500_d_4_DFS_R_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_500_d_4_DFS_I_7.gv
+
+---30 Nodos---
+---57 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_30.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_30_BFS_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_30_DFS_R_7.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_30_DFS_I_7.gv
+
+---100 Nodos---
+---197 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_100.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_100_BFS_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_100_DFS_R_7.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_100_DFS_I_7.gv
+
+---500 Nodos---
+---997 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_500.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_500_BFS_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_500_DFS_R_7.gv
+
+---500 Nodos---
+---499 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_500_DFS_I_7.gv
+
