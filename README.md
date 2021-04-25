@@ -31,7 +31,7 @@ Entregables:
 1. Repositorio GIT (distinto al del primer proyecto)
 2. Archivos de grafos generados. Tres por cada generador (con **30**, **100** y **500** nodos).
 3. Archivos de grafos calculados. Tres por cada grafo generado (un **BFS** y dos **DFS**).
-Imágenes de la visualización de cada grafo (generados y calculados).
+4. Imágenes de la visualización de cada grafo (generados y calculados).
 
 ---
 
@@ -46,3 +46,211 @@ Imágenes de la visualización de cada grafo (generados y calculados).
 - Se utilizó el siguiente script para generar todos los grafos de este proyecto: [ejemplos.py](/src/ejemplos.py)
 
 ---
+
+## Modelo Gm,n de malla
+- m: número de columnas 
+- n: número de filas
+- dirigido: el grafo es dirigido
+
+##
+
+### 30 nodos
+**m = 6, n = 5, dirigido = False**
+
+<img src="/img/grafoMalla_m_6_n_5.png" width="500" />
+
+> 30 Nodos y 49 Aristas
+
+##
+
+### 100 nodos
+**m = 25, n = 4, dirigido = False**
+
+<img src="/img/grafoMalla_m_25_n_4.png" width="500" />
+
+> 100 Nodos y 171 Aristas
+ 
+##
+
+### 500 nodos
+**m = 50, n = 10, dirigido = False**
+
+<img src="/img/grafoMalla_m_50_n_10.png" width="500" />
+
+> 500 Nodos y 940 Aristas
+ 
+---
+
+## Modelo Gn,m de Erdös y Rényi
+- n: número de nodos (> 0)
+- m: número de aristas (>= n-1)
+- dirigido: el grafo es dirigido?
+- auto: permitir auto-ciclos?
+
+##
+
+### 30 nodos
+**n = 30, m = 30, dirigido = False, auto=False**
+
+<img src="/img/grafoErdosRenyi_n_30_m_30.png" width="500" />
+
+> 30 Nodos y 30 Aristas
+
+##
+
+### 100 nodos
+**n = 100, m = 100, dirigido = False, auto=False**
+
+<img src="/img/grafoErdosRenyi_n_100_m_100.png" width="500" />
+
+> 100 Nodos y 100 Aristas
+
+##
+
+### 500 nodos
+**n = 500, m = 500, dirigido = False, auto=False**
+
+<img src="/img/grafoErdosRenyi_n_500_m_500.png" width="500" />
+
+> 500 Nodos y 500 Aristas
+
+---
+
+## Modelo Gn,p de **Gilbert**
+- n: número de nodos (> 0)
+- p: probabilidad de crear una arista (0, 1)
+- dirigido: el grafo es dirigido?
+- auto: permitir auto-ciclos?
+
+##
+
+### 30 nodos
+**n = 30, p = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_30_p_10.png" width="500" />
+
+> 30 Nodos y 75 Aristas
+
+##
+
+### 100 nodos
+**n = 100, p = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_100_p_10.png" width="500" />
+
+> 100 Nodos y 915 Aristas
+
+##
+
+### 500 nodos
+**n = 500, p = 0.03, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_500_p_3.png" width="500" />
+
+> 500 Nodos y 7,263 Aristas
+
+---
+
+## Modelo Gn,r **geográfico simple**
+- n: número de nodos (> 0)
+- r: distancia máxima para crear un nodo (0, 1)
+- dirigido: el grafo es dirigido?
+- auto: permitir auto-ciclos?
+
+##
+
+### 30 nodos
+**n = 30, r = 0.3, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_30_r_3.png" width="500" />
+
+> 30 Nodos y 92 Aristas
+
+##
+
+### 100 nodos
+**n = 100, r = 0.3, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_100_r_3.png" width="500" />
+
+> 100 Nodos y 999 Aristas
+
+##
+
+### 500 nodos
+**n = 500, r = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_500_r_1.png" width="500" />
+
+> 500 Nodos y 3,420 Aristas
+
+---
+
+## Variante del modelo Gn,d **Barabási-Albert**
+- n: número de nodos (> 0)
+- d: grado máximo esperado por cada nodo (> 1)
+- dirigido: el grafo es dirigido?
+- auto: permitir auto-ciclos?
+
+##
+
+### 30 nodos
+**n = 30, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_30_d_4.png" width="500" />
+
+> 30 Nodos y 58 Aristas
+
+##
+
+### 100 nodos
+**n = 100, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_100_d_4.png" width="500" />
+
+> 100 Nodos y 197 Aristas
+
+##
+
+### 500 nodos
+**n =500, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_500_d_4.png" width="500" />
+
+> 500 Nodos y 999 Aristas
+
+---
+
+## Modelo Gn **Dorogovtsev-Mendes**
+- n: número de nodos (≥ 3)
+- dirigido: el grafo es dirigido?
+
+##
+
+### 30 nodos
+**n = 30, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_30.png" width="500" />
+
+> 30 Nodos y 57 Aristas
+
+##
+
+### 100 nodos
+**n = 100, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_100.png" width="500" />
+
+> 100 Nodos y 197 Aristas
+
+##
+
+### 500 nodos
+**n = 500, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_500.png" width="500" />
+
+> 500 Nodos y 997 Aristas
+
+---
+
