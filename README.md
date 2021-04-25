@@ -129,7 +129,7 @@ Entregables:
 
 <img src="/img/grafoGilbert_n_30_p_10.png" width="500" />
 
-> 30 Nodos y 75 Aristas
+> 30 Nodos y 81 Aristas
 
 ##
 
@@ -138,7 +138,7 @@ Entregables:
 
 <img src="/img/grafoGilbert_n_100_p_10.png" width="500" />
 
-> 100 Nodos y 915 Aristas
+> 100 Nodos y 889 Aristas
 
 ##
 
@@ -147,7 +147,7 @@ Entregables:
 
 <img src="/img/grafoGilbert_n_500_p_3.png" width="500" />
 
-> 500 Nodos y 7,263 Aristas
+> 500 Nodos y 7,464 Aristas
 
 ---
 
@@ -164,7 +164,7 @@ Entregables:
 
 <img src="/img/grafoGeografico_n_30_r_3.png" width="500" />
 
-> 30 Nodos y 92 Aristas
+> 30 Nodos y 104 Aristas
 
 ##
 
@@ -173,7 +173,7 @@ Entregables:
 
 <img src="/img/grafoGeografico_n_100_r_3.png" width="500" />
 
-> 100 Nodos y 999 Aristas
+> 100 Nodos y 1086 Aristas
 
 ##
 
@@ -182,7 +182,7 @@ Entregables:
 
 <img src="/img/grafoGeografico_n_500_r_1.png" width="500" />
 
-> 500 Nodos y 3,420 Aristas
+> 500 Nodos y 3,768 Aristas
 
 ---
 
@@ -208,7 +208,7 @@ Entregables:
 
 <img src="/img/grafoBarabasiAlbert_n_100_d_4.png" width="500" />
 
-> 100 Nodos y 197 Aristas
+> 100 Nodos y 198 Aristas
 
 ##
 
