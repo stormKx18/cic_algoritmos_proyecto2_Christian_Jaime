@@ -414,6 +414,33 @@ Entregables:
 
 ##
 
+### 30 nodos - BFS
+**n = 30, r = 0.3, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_30_r_3_BFS_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+### 30 nodos - DFS recursivo
+**n = 30, r = 0.3, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_30_r_3_DFS_R_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+### 30 nodos - DFS iterativo
+**n = 30, r = 0.3, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_30_r_3_DFS_I_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
 ### 100 nodos
 **n = 100, r = 0.3, dirigido = False, auto=False**
 
@@ -423,12 +450,66 @@ Entregables:
 
 ##
 
+### 100 nodos - BFS
+**n = 100, r = 0.3, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_100_r_3_BFS_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
+### 100 nodos - DFS recursivo
+**n = 100, r = 0.3, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_100_r_3_DFS_R_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
+### 100 nodos - DFS iterativo
+**n = 100, r = 0.3, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_100_r_3_DFS_I_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
 ### 500 nodos
 **n = 500, r = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_500_r_1.png" width="500" />
 
 > 500 Nodos y 3,768 Aristas
+
+##
+
+### 500 nodos - BFS
+**n = 500, r = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_500_r_1_BFS_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
+
+### 500 nodos - DFS recursivo
+**n = 500, r = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_500_r_1_DFS_R_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
+
+### 500 nodos - DFS iterativo
+**n = 500, r = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGeografico_n_500_r_1_DFS_I_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
 
 ---
 
@@ -449,12 +530,66 @@ Entregables:
 
 ##
 
+### 30 nodos - BFS
+**n = 30, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_30_d_4_BFS_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+### 30 nodos - DFS recursivo
+**n = 30, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_30_d_4_DFS_R_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+### 30 nodos - DFS iterativo
+**n = 30, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_30_d_4_DFS_I_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
 ### 100 nodos
 **n = 100, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_100_d_4.png" width="500" />
 
 > 100 Nodos y 198 Aristas
+
+##
+
+### 100 nodos - BFS
+**n = 100, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_100_d_4_BFS_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
+### 100 nodos - DFS recursivo
+**n = 100, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_100_d_4_DFS_R_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
+### 100 nodos - DFS iterativo
+**n = 100, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_100_d_4_DFS_I_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
 
 ##
 
@@ -465,6 +600,34 @@ Entregables:
 
 > 500 Nodos y 999 Aristas
 
+##
+
+### 500 nodos - BFS
+**n =500, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_500_d_4_BFS_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
+
+### 500 nodos - DFS recursivo
+**n =500, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_500_d_4_DFS_R_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
+
+### 500 nodos - DFS iterativo
+**n =500, d = 4, dirigido = False, auto=False**
+
+<img src="/img/grafoBarabasiAlbert_n_500_d_4_DFS_I_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
 ---
 
 ## Modelo Gn **Dorogovtsev-Mendes**
