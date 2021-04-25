@@ -394,7 +394,6 @@ Entregables:
 
 > 500 Nodos y 499 Aristas
 
-##
 ---
 
 ## Modelo Gn,r **geográfico simple**
@@ -627,7 +626,6 @@ Entregables:
 
 > 500 Nodos y 499 Aristas
 
-##
 ---
 
 ## Modelo Gn **Dorogovtsev-Mendes**
@@ -645,6 +643,33 @@ Entregables:
 
 ##
 
+### 30 nodos - BFS
+**n = 30, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_30_BFS_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+### 30 nodos - DFS recursivo
+**n = 30, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_30_DFS_R_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+### 30 nodos - DFS iterativo
+**n = 30, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_30_DFS_I_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
 ### 100 nodos
 **n = 100, dirigido = False**
 
@@ -654,12 +679,66 @@ Entregables:
 
 ##
 
+### 100 nodos - BFS
+**n = 100, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_100_BFS_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
+### 100 nodos - DFS recursivo
+**n = 100, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_100_DFS_R_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
+### 100 nodos - DFS iterativo
+**n = 100, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_100_DFS_I_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
 ### 500 nodos
 **n = 500, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_500.png" width="500" />
 
 > 500 Nodos y 997 Aristas
+
+##
+
+### 500 nodos - BFS
+**n = 500, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_500_BFS_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
+
+### 500 nodos - DFS recursivo
+**n = 500, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_500_DFS_R_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
+
+### 500 nodos - DFS iterativo
+**n = 500, dirigido = False**
+
+<img src="/img/grafoDorogovtsevMendes_n_500_DFS_I_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
 
 ---
 
