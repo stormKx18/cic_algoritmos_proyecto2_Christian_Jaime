@@ -159,9 +159,7 @@ Entregables:
 <img src="/img/grafoMalla_m_50_n_10_DFS_I_7.png" width="500" />
 
 > 500 Nodos y 499 Aristas
- 
-##
- 
+  
 ---
 
 ## Modelo Gn,m de Erdös y Rényi
@@ -278,8 +276,6 @@ Entregables:
 
 > 392 Nodos y 391 Aristas
  
-##
-
 ---
 
 ## Modelo Gn,p de **Gilbert**
@@ -299,12 +295,68 @@ Entregables:
 
 ##
 
+### 30 nodos - BFS
+**n = 30, p = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_30_p_10_BFS_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+
+### 30 nodos - DFS recursivo
+**n = 30, p = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_30_p_10_DFS_R_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
+
+### 30 nodos - DFS iterativo
+**n = 30, p = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_30_p_10_DFS_I_7.png" width="500" />
+
+> 30 Nodos y 29 Aristas
+
+##
+
 ### 100 nodos
 **n = 100, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_100_p_10.png" width="500" />
 
 > 100 Nodos y 889 Aristas
+
+##
+
+### 100 nodos - BFS
+**n = 100, p = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_100_p_10_BFS_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
+### 100 nodos - DFS recursivo
+**n = 100, p = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_100_p_10_DFS_R_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
+
+##
+
+### 100 nodos - DFS iterativo
+**n = 100, p = 0.1, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_100_p_10_DFS_I_7.png" width="500" />
+
+> 100 Nodos y 99 Aristas
 
 ##
 
@@ -315,6 +367,34 @@ Entregables:
 
 > 500 Nodos y 7,464 Aristas
 
+##
+
+### 500 nodos - BFS
+**n = 500, p = 0.03, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_500_p_3_BFS_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
+
+### 500 nodos - DFS recursivo
+**n = 500, p = 0.03, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_500_p_3_DFS_R_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
+
+### 500 nodos - DFS iterativo
+**n = 500, p = 0.03, dirigido = False, auto=False**
+
+<img src="/img/grafoGilbert_n_500_p_3_DFS_I_7.png" width="500" />
+
+> 500 Nodos y 499 Aristas
+
+##
 ---
 
 ## Modelo Gn,r **geográfico simple**
