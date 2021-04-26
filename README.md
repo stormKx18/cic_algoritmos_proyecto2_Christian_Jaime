@@ -54,7 +54,7 @@ Entregables:
 
 ##
 
-### 30 nodos
+### 30 nodos (Modelo Gm,n de malla)
 **m = 6, n = 5, dirigido = False**
 
 <img src="/img/grafoMalla_m_6_n_5.png" width="500" />
@@ -63,7 +63,7 @@ Entregables:
 
 ##
 
-### 30 nodos - BFS
+### 30 nodos - BFS (Modelo Gm,n de malla)
 **m = 6, n = 5, dirigido = False**
 
 <img src="/img/grafoMalla_m_6_n_5_BFS_7.png" width="500" />
@@ -72,7 +72,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS recursivo
+### 30 nodos - DFS recursivo (Modelo Gm,n de malla)
 **m = 6, n = 5, dirigido = False**
 
 <img src="/img/grafoMalla_m_6_n_5_DFS_R_7.png" width="500" />
@@ -81,7 +81,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS iterativo
+### 30 nodos - DFS iterativo (Modelo Gm,n de malla)
 **m = 6, n = 5, dirigido = False**
 
 <img src="/img/grafoMalla_m_6_n_5_DFS_I_7.png" width="500" />
@@ -90,7 +90,7 @@ Entregables:
 
 ##
 
-### 100 nodos
+### 100 nodos (Modelo Gm,n de malla)
 **m = 25, n = 4, dirigido = False**
 
 <img src="/img/grafoMalla_m_25_n_4.png" width="500" />
@@ -99,7 +99,7 @@ Entregables:
  
 ##
 
-### 100 nodos - BFS
+### 100 nodos - BFS (Modelo Gm,n de malla)
 **m = 25, n = 4, dirigido = False**
 
 <img src="/img/grafoMalla_m_25_n_4_BFS_7.png" width="500" />
@@ -108,7 +108,7 @@ Entregables:
  
 ##
 
-### 100 nodos- DFS recursivo
+### 100 nodos- DFS recursivo (Modelo Gm,n de malla)
 **m = 25, n = 4, dirigido = False**
 
 <img src="/img/grafoMalla_m_25_n_4_DFS_R_7.png" width="500" />
@@ -117,7 +117,7 @@ Entregables:
  
 ##
 
-### 100 nodos - DFS iterativo
+### 100 nodos - DFS iterativo (Modelo Gm,n de malla)
 **m = 25, n = 4, dirigido = False**
 
 <img src="/img/grafoMalla_m_25_n_4_DFS_I_7.png" width="500" />
@@ -126,7 +126,7 @@ Entregables:
  
 ##
 
-### 500 nodos
+### 500 nodos (Modelo Gm,n de malla)
 **m = 50, n = 10, dirigido = False**
 
 <img src="/img/grafoMalla_m_50_n_10.png" width="500" />
@@ -135,7 +135,7 @@ Entregables:
  
 ##
 
-### 500 nodos - BFS
+### 500 nodos - BFS (Modelo Gm,n de malla)
 **m = 50, n = 10, dirigido = False**
 
 <img src="/img/grafoMalla_m_50_n_10_BFS_7.png" width="500" />
@@ -144,7 +144,7 @@ Entregables:
  
 ##
 
-### 500 nodos - DFS recursivo
+### 500 nodos - DFS recursivo (Modelo Gm,n de malla)
 **m = 50, n = 10, dirigido = False**
 
 <img src="/img/grafoMalla_m_50_n_10_DFS_R_7.png" width="500" />
@@ -153,7 +153,7 @@ Entregables:
  
 ##
 
-### 500 nodos - DFS iterativo
+### 500 nodos - DFS iterativo (Modelo Gm,n de malla)
 **m = 50, n = 10, dirigido = False**
 
 <img src="/img/grafoMalla_m_50_n_10_DFS_I_7.png" width="500" />
