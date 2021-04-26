@@ -170,7 +170,7 @@ Entregables:
 
 ##
 
-### 30 nodos
+### 30 nodos (Modelo Gn,m de Erdös y Rényi)
 **n = 30, m = 30, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_30_m_30.png" width="500" />
@@ -179,7 +179,7 @@ Entregables:
 
 ##
 
-### 30 nodos - BFS
+### 30 nodos - BFS (Modelo Gn,m de Erdös y Rényi)
 **n = 30, m = 30, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_30_m_30_BFS_7.png" width="500" />
@@ -188,7 +188,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS recursivo
+### 30 nodos - DFS recursivo (Modelo Gn,m de Erdös y Rényi)
 **n = 30, m = 30, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_30_m_30_DFS_R_7.png" width="500" />
@@ -197,7 +197,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS iterativo
+### 30 nodos - DFS iterativo (Modelo Gn,m de Erdös y Rényi)
 **n = 30, m = 30, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_30_m_30_DFS_I_7.png" width="500" />
@@ -206,7 +206,7 @@ Entregables:
 
 ##
 
-### 100 nodos
+### 100 nodos (Modelo Gn,m de Erdös y Rényi)
 **n = 100, m = 100, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_100_m_100.png" width="500" />
@@ -215,7 +215,7 @@ Entregables:
 
 ##
 
-### 100 nodos - BFS
+### 100 nodos - BFS (Modelo Gn,m de Erdös y Rényi)
 **n = 100, m = 100, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_100_m_100_BFS_7.png" width="500" />
@@ -224,7 +224,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS recursivo
+### 100 nodos - DFS recursivo (Modelo Gn,m de Erdös y Rényi)
 **n = 100, m = 100, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_100_m_100_DFS_R_7.png" width="500" />
@@ -233,7 +233,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS iterativo
+### 100 nodos - DFS iterativo (Modelo Gn,m de Erdös y Rényi)
 **n = 100, m = 100, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_100_m_100_DFS_I_7.png" width="500" />
@@ -242,7 +242,7 @@ Entregables:
 
 ##
 
-### 500 nodos
+### 500 nodos (Modelo Gn,m de Erdös y Rényi)
 **n = 500, m = 500, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_500_m_500.png" width="500" />
@@ -251,7 +251,7 @@ Entregables:
  
 ##
 
-### 500 nodos - BFS
+### 500 nodos - BFS (Modelo Gn,m de Erdös y Rényi)
 **n = 500, m = 500, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_500_m_500_BFS_7.png" width="500" />
@@ -260,7 +260,7 @@ Entregables:
  
 ##
 
-### 500 nodos - DFS recursivo
+### 500 nodos - DFS recursivo (Modelo Gn,m de Erdös y Rényi)
 **n = 500, m = 500, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_500_m_500_DFS_R_7.png" width="500" />
@@ -269,7 +269,7 @@ Entregables:
  
 ##
 
-### 500 nodos - DFS iterativo
+### 500 nodos - DFS iterativo (Modelo Gn,m de Erdös y Rényi)
 **n = 500, m = 500, dirigido = False, auto=False**
 
 <img src="/img/grafoErdosRenyi_n_500_m_500_DFS_I_7.png" width="500" />
@@ -286,7 +286,7 @@ Entregables:
 
 ##
 
-### 30 nodos
+### 30 nodos (Modelo Gn,p de Gilbert)
 **n = 30, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_30_p_10.png" width="500" />
@@ -295,7 +295,7 @@ Entregables:
 
 ##
 
-### 30 nodos - BFS
+### 30 nodos - BFS (Modelo Gn,p de Gilbert)
 **n = 30, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_30_p_10_BFS_7.png" width="500" />
@@ -305,7 +305,7 @@ Entregables:
 ##
 
 
-### 30 nodos - DFS recursivo
+### 30 nodos - DFS recursivo (Modelo Gn,p de Gilbert)
 **n = 30, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_30_p_10_DFS_R_7.png" width="500" />
@@ -315,7 +315,7 @@ Entregables:
 ##
 
 
-### 30 nodos - DFS iterativo
+### 30 nodos - DFS iterativo (Modelo Gn,p de Gilbert)
 **n = 30, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_30_p_10_DFS_I_7.png" width="500" />
@@ -324,7 +324,7 @@ Entregables:
 
 ##
 
-### 100 nodos
+### 100 nodos (Modelo Gn,p de Gilbert)
 **n = 100, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_100_p_10.png" width="500" />
@@ -333,7 +333,7 @@ Entregables:
 
 ##
 
-### 100 nodos - BFS
+### 100 nodos - BFS (Modelo Gn,p de Gilbert)
 **n = 100, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_100_p_10_BFS_7.png" width="500" />
@@ -342,7 +342,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS recursivo
+### 100 nodos - DFS recursivo (Modelo Gn,p de Gilbert)
 **n = 100, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_100_p_10_DFS_R_7.png" width="500" />
@@ -351,7 +351,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS iterativo
+### 100 nodos - DFS iterativo (Modelo Gn,p de Gilbert)
 **n = 100, p = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_100_p_10_DFS_I_7.png" width="500" />
@@ -360,7 +360,7 @@ Entregables:
 
 ##
 
-### 500 nodos
+### 500 nodos (Modelo Gn,p de Gilbert)
 **n = 500, p = 0.03, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_500_p_3.png" width="500" />
@@ -369,7 +369,7 @@ Entregables:
 
 ##
 
-### 500 nodos - BFS
+### 500 nodos - BFS (Modelo Gn,p de Gilbert)
 **n = 500, p = 0.03, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_500_p_3_BFS_7.png" width="500" />
@@ -378,7 +378,7 @@ Entregables:
 
 ##
 
-### 500 nodos - DFS recursivo
+### 500 nodos - DFS recursivo (Modelo Gn,p de Gilbert)
 **n = 500, p = 0.03, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_500_p_3_DFS_R_7.png" width="500" />
@@ -387,7 +387,7 @@ Entregables:
 
 ##
 
-### 500 nodos - DFS iterativo
+### 500 nodos - DFS iterativo (Modelo Gn,p de Gilbert)
 **n = 500, p = 0.03, dirigido = False, auto=False**
 
 <img src="/img/grafoGilbert_n_500_p_3_DFS_I_7.png" width="500" />
@@ -404,7 +404,7 @@ Entregables:
 
 ##
 
-### 30 nodos
+### 30 nodos (Modelo Gn,r Geográfico simple)
 **n = 30, r = 0.3, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_30_r_3.png" width="500" />
@@ -413,7 +413,7 @@ Entregables:
 
 ##
 
-### 30 nodos - BFS
+### 30 nodos - BFS (Modelo Gn,r Geográfico simple)
 **n = 30, r = 0.3, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_30_r_3_BFS_7.png" width="500" />
@@ -422,7 +422,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS recursivo
+### 30 nodos - DFS recursivo (Modelo Gn,r Geográfico simple)
 **n = 30, r = 0.3, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_30_r_3_DFS_R_7.png" width="500" />
@@ -431,7 +431,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS iterativo
+### 30 nodos - DFS iterativo (Modelo Gn,r Geográfico simple)
 **n = 30, r = 0.3, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_30_r_3_DFS_I_7.png" width="500" />
@@ -440,7 +440,7 @@ Entregables:
 
 ##
 
-### 100 nodos
+### 100 nodos (Modelo Gn,r Geográfico simple)
 **n = 100, r = 0.3, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_100_r_3.png" width="500" />
@@ -449,7 +449,7 @@ Entregables:
 
 ##
 
-### 100 nodos - BFS
+### 100 nodos - BFS (Modelo Gn,r Geográfico simple)
 **n = 100, r = 0.3, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_100_r_3_BFS_7.png" width="500" />
@@ -458,7 +458,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS recursivo
+### 100 nodos - DFS recursivo (Modelo Gn,r Geográfico simple)
 **n = 100, r = 0.3, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_100_r_3_DFS_R_7.png" width="500" />
@@ -467,7 +467,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS iterativo
+### 100 nodos - DFS iterativo (Modelo Gn,r Geográfico simple)
 **n = 100, r = 0.3, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_100_r_3_DFS_I_7.png" width="500" />
@@ -476,7 +476,7 @@ Entregables:
 
 ##
 
-### 500 nodos
+### 500 nodos (Modelo Gn,r Geográfico simple)
 **n = 500, r = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_500_r_1.png" width="500" />
@@ -485,7 +485,7 @@ Entregables:
 
 ##
 
-### 500 nodos - BFS
+### 500 nodos - BFS (Modelo Gn,r Geográfico simple)
 **n = 500, r = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_500_r_1_BFS_7.png" width="500" />
@@ -494,7 +494,7 @@ Entregables:
 
 ##
 
-### 500 nodos - DFS recursivo
+### 500 nodos - DFS recursivo (Modelo Gn,r Geográfico simple)
 **n = 500, r = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_500_r_1_DFS_R_7.png" width="500" />
@@ -503,7 +503,7 @@ Entregables:
 
 ##
 
-### 500 nodos - DFS iterativo
+### 500 nodos - DFS iterativo (Modelo Gn,r Geográfico simple)
 **n = 500, r = 0.1, dirigido = False, auto=False**
 
 <img src="/img/grafoGeografico_n_500_r_1_DFS_I_7.png" width="500" />
@@ -520,7 +520,7 @@ Entregables:
 
 ##
 
-### 30 nodos
+### 30 nodos (Variante del modelo Gn,d Barabási-Albert)
 **n = 30, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_30_d_4.png" width="500" />
@@ -529,7 +529,7 @@ Entregables:
 
 ##
 
-### 30 nodos - BFS
+### 30 nodos - BFS (Variante del modelo Gn,d Barabási-Albert)
 **n = 30, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_30_d_4_BFS_7.png" width="500" />
@@ -538,7 +538,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS recursivo
+### 30 nodos - DFS recursivo (Variante del modelo Gn,d Barabási-Albert)
 **n = 30, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_30_d_4_DFS_R_7.png" width="500" />
@@ -547,7 +547,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS iterativo
+### 30 nodos - DFS iterativo (Variante del modelo Gn,d Barabási-Albert)
 **n = 30, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_30_d_4_DFS_I_7.png" width="500" />
@@ -556,7 +556,7 @@ Entregables:
 
 ##
 
-### 100 nodos
+### 100 nodos (Variante del modelo Gn,d Barabási-Albert)
 **n = 100, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_100_d_4.png" width="500" />
@@ -565,7 +565,7 @@ Entregables:
 
 ##
 
-### 100 nodos - BFS
+### 100 nodos - BFS (Variante del modelo Gn,d Barabási-Albert)
 **n = 100, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_100_d_4_BFS_7.png" width="500" />
@@ -574,7 +574,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS recursivo
+### 100 nodos - DFS recursivo (Variante del modelo Gn,d Barabási-Albert)
 **n = 100, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_100_d_4_DFS_R_7.png" width="500" />
@@ -583,7 +583,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS iterativo
+### 100 nodos - DFS iterativo (Variante del modelo Gn,d Barabási-Albert)
 **n = 100, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_100_d_4_DFS_I_7.png" width="500" />
@@ -592,7 +592,7 @@ Entregables:
 
 ##
 
-### 500 nodos
+### 500 nodos (Variante del modelo Gn,d Barabási-Albert)
 **n =500, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_500_d_4.png" width="500" />
@@ -601,7 +601,7 @@ Entregables:
 
 ##
 
-### 500 nodos - BFS
+### 500 nodos - BFS (Variante del modelo Gn,d Barabási-Albert)
 **n =500, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_500_d_4_BFS_7.png" width="500" />
@@ -610,7 +610,7 @@ Entregables:
 
 ##
 
-### 500 nodos - DFS recursivo
+### 500 nodos - DFS recursivo (Variante del modelo Gn,d Barabási-Albert)
 **n =500, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_500_d_4_DFS_R_7.png" width="500" />
@@ -619,7 +619,7 @@ Entregables:
 
 ##
 
-### 500 nodos - DFS iterativo
+### 500 nodos - DFS iterativo (Variante del modelo Gn,d Barabási-Albert)
 **n =500, d = 4, dirigido = False, auto=False**
 
 <img src="/img/grafoBarabasiAlbert_n_500_d_4_DFS_I_7.png" width="500" />
@@ -634,7 +634,7 @@ Entregables:
 
 ##
 
-### 30 nodos
+### 30 nodos (Modelo Gn Dorogovtsev-Mendes)
 **n = 30, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_30.png" width="500" />
@@ -643,7 +643,7 @@ Entregables:
 
 ##
 
-### 30 nodos - BFS
+### 30 nodos - BFS (Modelo Gn Dorogovtsev-Mendes)
 **n = 30, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_30_BFS_7.png" width="500" />
@@ -652,7 +652,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS recursivo
+### 30 nodos - DFS recursivo (Modelo Gn Dorogovtsev-Mendes)
 **n = 30, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_30_DFS_R_7.png" width="500" />
@@ -661,7 +661,7 @@ Entregables:
 
 ##
 
-### 30 nodos - DFS iterativo
+### 30 nodos - DFS iterativo (Modelo Gn Dorogovtsev-Mendes)
 **n = 30, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_30_DFS_I_7.png" width="500" />
@@ -670,7 +670,7 @@ Entregables:
 
 ##
 
-### 100 nodos
+### 100 nodos (Modelo Gn Dorogovtsev-Mendes)
 **n = 100, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_100.png" width="500" />
@@ -679,7 +679,7 @@ Entregables:
 
 ##
 
-### 100 nodos - BFS
+### 100 nodos - BFS (Modelo Gn Dorogovtsev-Mendes)
 **n = 100, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_100_BFS_7.png" width="500" />
@@ -688,7 +688,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS recursivo
+### 100 nodos - DFS recursivo (Modelo Gn Dorogovtsev-Mendes)
 **n = 100, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_100_DFS_R_7.png" width="500" />
@@ -697,7 +697,7 @@ Entregables:
 
 ##
 
-### 100 nodos - DFS iterativo
+### 100 nodos - DFS iterativo (Modelo Gn Dorogovtsev-Mendes)
 **n = 100, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_100_DFS_I_7.png" width="500" />
@@ -706,7 +706,7 @@ Entregables:
 
 ##
 
-### 500 nodos
+### 500 nodos (Modelo Gn Dorogovtsev-Mendes)
 **n = 500, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_500.png" width="500" />
@@ -715,7 +715,7 @@ Entregables:
 
 ##
 
-### 500 nodos - BFS
+### 500 nodos - BFS (Modelo Gn Dorogovtsev-Mendes)
 **n = 500, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_500_BFS_7.png" width="500" />
@@ -724,7 +724,7 @@ Entregables:
 
 ##
 
-### 500 nodos - DFS recursivo
+### 500 nodos - DFS recursivo (Modelo Gn Dorogovtsev-Mendes)
 **n = 500, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_500_DFS_R_7.png" width="500" />
@@ -733,7 +733,7 @@ Entregables:
 
 ##
 
-### 500 nodos - DFS iterativo
+### 500 nodos - DFS iterativo (Modelo Gn Dorogovtsev-Mendes)
 **n = 500, dirigido = False**
 
 <img src="/img/grafoDorogovtsevMendes_n_500_DFS_I_7.png" width="500" />
